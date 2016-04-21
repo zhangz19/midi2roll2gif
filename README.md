@@ -2,3 +2,7 @@
 MATLAB toolkit to convert nusic MIDI file to GIF animation pianoroll. This function is based on the MATLAB MIDI toolbox.
 
 roll2gif.m shows a demo of visualizing the first musical piece from famous work “The Art of Fugue” by J.S.Bach (download the MIDI file). It clearly manifests the motifs and structure of this music piece. The gif animation file is an example output of MATLAB function given the input MIDI file.
+
+crab.m shows another demo with "Crab Canon" by J.S.Bach.
+
+![alt tag](https://raw.githubusercontent.com/zhangz19/midi2roll2gif/master/crab.gif)
